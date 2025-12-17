@@ -24,6 +24,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://buymeacoffee.com/c0d3k0ng">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
 <pre align="center">
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
@@ -32,6 +38,68 @@
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 </pre>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌌 Matrix Rain - Enter The Code
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZiM202emE1dXMxdXU2aWt4MXR3M2Q5OGRoZ2xpN2RpMzN1NjUxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnbKgN3bXeVpvy/giphy.gif" width="100%" height="300"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 Weekly Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=C0D3K0NG&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://wakatime.com/@C0D3K0NG)
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎵 Spotify Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-c0d3k0ng.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+*🎧 Vibing to some tunes while coding...*
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🗺️ Visitor's World Map
+
+<div align="center">
+
+[![Visitor Map](https://visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FC0D3K0NG&label=Visitors%20from&labelColor=%23000000&countColor=%2300ff41)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FC0D3K0NG)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Watch My Contribution Graph Get Eaten by a Snake!
+
+![Snake animation](https://raw.githubusercontent.com/C0D3K0NG/C0D3K0NG/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -124,113 +192,46 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFsMDJoMWRnbGgweDhjanBzdHlzbGV3enBrM3I2OGZ4ejI4aDd4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNNLPYK17KV8LrnBBa/giphy.gif" width="400"/>
 
-### 🔮 Core Magic Spells
+### 🔮 Tech Stack Showcase
 
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-        <br>Bash
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-        <br>PowerShell
-    </td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,bash,powershell,firebase,vercel,netlify,vite,mysql,sqlite,git,github,postman,npm,figma,notion&perline=10" />
+  </a>
+</p>
 
-### ☁️ Cloud Enchantments
+### 💻 Languages
 
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-        <br>Vercel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-        <br>Netlify
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-        <br>Vite
-    </td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🗄️ Data Vaults & DevOps
+### ☁️ Cloud & Deployment
 
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        <br>SQLite
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-        <br>NPM
-    </td>
-</tr>
-</table>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🎨 Creative Alchemy
+### 🗄️ Databases & Tools
 
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-        <br>Notion
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" width="80" height="48" alt="Canva" />
-        <br>Canva
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" width="80" height="48" alt="Krita" />
-        <br>Krita
-    </td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🎨 Design Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 </div>
 
@@ -269,8 +270,37 @@
 
 <br/><br/>
 
+### 📈 GitHub Statistics
+
 <img src="https://github-readme-stats.vercel.app/api?username=C0D3K0NG&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00ff41&title_color=00ff41&text_color=ffffff&bg_color=0d1117&border_radius=15" width="49%" alt="GitHub Stats"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=C0D3K0NG&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border_radius=15" width="49%" alt="GitHub Streak"/>
+
+<br/>
+
+### 📊 Detailed Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C0D3K0NG&theme=radical" width="98%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C0D3K0NG&theme=radical" width="32%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C0D3K0NG&theme=radical" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=C0D3K0NG&theme=radical" width="32%" alt="Productive Time"/>
+
+<br/>
+
+### 🎨 Language Distribution
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0D3K0NG&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=15" width="40%" alt="Top Languages Donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0D3K0NG&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=15" width="56%" alt="Top Languages"/>
+
+<br/>
+
+### 📅 3D Contribution Calendar
+
+<img src="https://raw.githubusercontent.com/C0D3K0NG/C0D3K0NG/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution Calendar"/>
+
+</div>
 
 <br/>
 
@@ -279,10 +309,6 @@
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=C0D3K0NG&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true" width="98%" alt="Contribution Graph"/>
 </details>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0D3K0NG&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=15" width="98%" alt="Top Languages"/>
 
 </div>
 
