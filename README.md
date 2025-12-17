@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=RAJDEEP%20SAHA&fontSize=50&fontColor=00ff41&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,11,30&height=150&section=header&text=RAJDEEP%20SAHA&fontSize=50&fontColor=00ff41&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Python+Developer+%26+Security+Analyst+%F0%9F%94%90;Cryptography+Enthusiast+%F0%9F%94%91;Pentesting+Specialist+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
@@ -294,7 +294,7 @@ const openSource = ["Security Tools", "Network Projects", "Pentesting Utilities"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,15&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **⭐ From [C0D3K0NG](https://github.com/C0D3K0NG) with 💚 and ☕**
 
