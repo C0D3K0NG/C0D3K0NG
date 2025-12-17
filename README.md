@@ -12,14 +12,14 @@
 [![GitHub Followers](https://img.shields.io/github/followers/C0D3K0NG?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/C0D3K0NG)
 [![GitHub Stars](https://img.shields.io/github/stars/C0D3K0NG?label=Stars&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/C0D3K0NG)
 
-```ascii
+<pre align="center">
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
 ║   "In the digital realm where shadows dance and secrets hide,            ║
-║    I am the guardian who brings light to the dark side." 🌌             ║
+║    I am the guardian who brings light to the dark side."                 ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
