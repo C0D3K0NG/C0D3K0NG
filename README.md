@@ -16,7 +16,7 @@
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
 ║   "In the digital realm where shadows dance and secrets hide,            ║
-║    I am the guardian who brings light to the dark side." 🌌              ║
+║    I am the guardian who brings light to the dark side." 🌌             ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
