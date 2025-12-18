@@ -301,6 +301,9 @@
 <a href="https://www.geeksforgeeks.org/user/rajdeepnbced/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" alt="GeeksforGeeks"/>
 </a>
+<a href="https://stackoverflow.com/users/32071597/rajdeep-saha" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/>
+</a>
 
 <br/><br/>
 
