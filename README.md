@@ -53,45 +53,11 @@
 
 </div>
 
----
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 Weekly Coding Stats
 
-<div align="center">
 
-<!--START_SECTION:waka-->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=C0D3K0NG&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://wakatime.com/@C0D3K0NG)
-<!--END_SECTION:waka-->
 
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-c0d3k0ng.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-*🎧 Vibing to some tunes while coding...*
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🗺️ Visitor's World Map
-
-<div align="center">
-
-[![Visitor Map](https://visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FC0D3K0NG&label=Visitors%20from&labelColor=%23000000&countColor=%2300ff41)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FC0D3K0NG)
-
-</div>
 
 ---
 
@@ -309,24 +275,6 @@
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=C0D3K0NG&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true" width="98%" alt="Contribution Graph"/>
 </details>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎨 GitHub Skyline - My Code in 3D!
-
-<div align="center">
-
-<a href="https://skyline.github.com/C0D3K0NG/2024">
-  <img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="400" alt="3D Code"/>
-</a>
-
-**🏙️ [View My 2024 GitHub Skyline](https://skyline.github.com/C0D3K0NG/2024)**
-
-*A 3D visualization of my contributions throughout the year!*
 
 </div>
 
