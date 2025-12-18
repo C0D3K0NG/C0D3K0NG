@@ -99,7 +99,7 @@
 
 ## 🐍 Watch My Contribution Graph Get Eaten by a Snake!
 
-![Snake animation](https://raw.githubusercontent.com/C0D3K0NG/C0D3K0NG/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/C0D3K0NG/C0D3K0NG/snc/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
