@@ -129,28 +129,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 Achievement System
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
-
-### 🎖️ My Cyber Journey Milestones
-
-| Achievement | Status | Level |
-|------------|--------|-------|
-| 🔥 **Code Warrior** | ✅ Completed | Master |
-| 🎯 **Bug Hunter** | ✅ Completed | Expert |
-| 🌟 **Open Source Hero** | 🔄 Active | Advanced |
-| 🛡️ **Crypto Builder** | 🔄 Active | Advanced |
-| ☁️ **Cloud Guardian** | 📚 Learning | Beginner |
-| ⛓️ **Blockchain Sage** | 📚 Learning | Beginner |
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ⚔️ Weapons Arsenal
 
@@ -201,34 +179,10 @@
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏆 Achievement Unlocked!
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
-
-### 🎖️ My Cyber Journey Milestones
-
-| Achievement | Status | Description |
-|------------|--------|-------------|
-| 🔥 **Code Warrior** | ✅ Unlocked | Written 1000+ lines of secure code |
-| 🎯 **Bug Hunter** | ✅ Unlocked | Found and fixed multiple vulnerabilities |
-| 🌟 **Open Source Hero** | 🔄 In Progress | Contributing to security projects |
-| 🛡️ **Crypto Master** | 🔄 In Progress | Building Locksec Password Manager |
-| ☁️ **Cloud Guardian** | 🔒 Locked | Master cloud security (Learning!) |
-| ⛓️ **Blockchain Sage** | 🔒 Locked | Complete blockchain architecture course |
-
-</div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 Battle Statistics & Achievements
 
 <div align="center">
 
@@ -419,24 +373,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🎪 Welcome!
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
-
-### 🤝 Let's Create Something Amazing!
-
-| 💡 Call to Action |
-|------------------|
-| ⭐ **Star my repositories** if you find them useful! |
-| 🍴 **Fork and contribute** to make them even better! |
-| 🐛 **Report bugs** - Help me squash them all! |
-| 💡 **Suggest features** - I'm always open to ideas! |
-| 🤝 **Collaborate** on security tools and projects! |
-| 📧 **Reach out** - Let's connect and create! |
-
-<br/>
 
 ### 🎮 Quick Actions - Choose Your Path!
 
@@ -454,23 +391,6 @@
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
-<br/>
-
-### 📜 Personal Manifesto
-
-<div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
-</div>
-
-> **"I am a guardian of the digital realm, a seeker of vulnerabilities, and a builder of secure systems."**
-
-> **"I code not for malice, but for protection. I hack not to destroy, but to strengthen. I learn not to boast, but to share."**
-
-> **"In ones and zeros, I find my purpose. In security and privacy, I find my calling."**
-
-*-- C0D3K0NG*
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,10,15&height=120&section=footer&animation=twinkling" width="100%"/>
 
